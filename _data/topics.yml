@@ -8,7 +8,7 @@
   child: false
   publish: true
   
-  topic: How to use Microsoft Office as an alternative to LibreOffice
+  topic: How to use Microsoft Office as an Alternative to LibreOffice
   filename: t-microsoft.html
   child: true
   publish: true
