@@ -7,6 +7,11 @@
   filename: c-microsoft.html
   child: false
   publish: true
+  
+  topic: How to use Microsoft Office as an alternative to LibreOffice
+  filename: t-microsoft.html
+  child: true
+  publish: true
 
 - topic: How to Write a Letter in LibreOffice Writer
   filename: t-letter.html
